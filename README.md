@@ -1,4 +1,4 @@
-Hrvatski-Sanskrit Interaktivna Nadzorna Ploča
+# Hrvatski-Sanskrit Interaktivna Nadzorna Ploča
 
 Interaktivna web aplikacija koja prikazuje lingvističke veze između hrvatskog jezika i sanskrta. Ovaj projekt istražuje zajedničke korijene ovih jezika koji potječu iz proto-indoeuropske jezične obitelji.
 
@@ -9,7 +9,7 @@ Interaktivna web aplikacija koja prikazuje lingvističke veze između hrvatskog 
 - Responzivni dizajn s tematskim bojama (žuti tekst na tamno plavoj podlozi)
 - Dekorativni elementi s tradicionalnim sanskrtskim simbolima
 
-Tehnologije
+## Tehnologije
 - React.js
 - Tailwind CSS
 - JavaScript
